@@ -1,0 +1,20 @@
+1. Escreva um programa que peça ao usuário para inserir um número. O programa deve verificar se o número é positivo ou
+negativo e exibir uma mensagem correspondente. Se o número for zero, deve informar que é neutro.
+
+2. Crie um programa que peça ao usuário sua idade. Com base na idade, exiba uma mensagem informando se ele é criança (0-12 anos), adolescente (13-17 anos), adulto (18-64 anos) ou idoso (65 anos ou mais).
+
+3. Escreva um programa que peça ao usuário para inserir um número correspondente a um dia da semana (1 para Domingo, 2 para Segunda, etc.). Utilize a estrutura switch para exibir o nome do dia da semana correspondente.
+
+4. Crie um programa que imprima os números de 1 a 10 utilizando um laço for.
+
+5. Escreva um programa que peça ao usuário para inserir números inteiros repetidamente até que ele insira o número zero. Oo programa deve então exibir a soma de todos os números inseridos.
+
+6. Crie um programa que peça ao usuário para adivinhar um número entre 1 e 10. O programa deve continuar pedindo ao usuário para tentar novamente até que ele acerte. Exiba uma mensagem de parabéns quando o usuário acertar.
+
+7. Crie um programa que peça ao usuário para inserir 5 números inteiros e os armazene em um vetor. Em seguida, exiba o maior e o menor número inserido.
+
+8. Crie uma função chamada encontrarMedia que receba um vetor de números como argumento e retorne a média desses números. Em seguida, crie um programa que peça ao usuário para inserir a quantidade de números que ele deseja informar, armazene esses números em um vetor, e utilize a função para exibir a média.
+
+9- Crie um código que percorra um vetor de números e armazene em um novo vetor apenas os números que são maiores que um valor especifico. Em seguida, exiba o novo vetor.
+
+10 Dado um vetor de palavras, crie um código que percorra o vetor e conte quantas vezes uma palavra específica aparece. Armazene o resultado em uma variável contagem e exiba o valor.
